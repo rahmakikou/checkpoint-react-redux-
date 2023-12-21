@@ -1,0 +1,29 @@
+
+body { background-color: azure;
+
+} 
+
+
+.App {
+  text-align: center;
+}
+ 
+
+
+.Barred {
+text-decoration: line-through; 
+color: blue; 
+}
+
+
+.decor {
+  display: flex;
+  justify-content: center; 
+  flex-direction: column; 
+}
+
+.main {
+  display: flex;
+  justify-content: center; 
+  margin: 50px; 
+}
